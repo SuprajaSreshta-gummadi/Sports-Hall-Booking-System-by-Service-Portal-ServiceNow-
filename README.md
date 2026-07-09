@@ -18,9 +18,13 @@ In this phase, business requirements for the Sports Hall Booking System were gat
 # Widgets and Pages Configuration
 *A ServiceNow Widgets and Pages Configuration  with the following details:
 *Sports Hall / Facility Name
+
 *Sport Type (Badminton, Basketball, Table Tennis,Cricket etc.)
+
 *Booking Date
+
 *Time Slot (Start Time – End Time)
+
 *User Contact Details
 
 # Key Milestones

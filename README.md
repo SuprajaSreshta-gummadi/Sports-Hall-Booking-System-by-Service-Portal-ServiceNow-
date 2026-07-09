@@ -10,18 +10,18 @@ In this phase, business requirements for the Sports Hall Booking System were gat
 
 
 # Enhance User Convenience
-Provide a simple and intuitive booking experience via ServiceNow Service Portal
-Allow users to view available sports halls and time slots in real time
-Reduce manual booking requests and physical coordination
-Enable quick confirmation through automated notifications
+*Provide a simple and intuitive booking experience via ServiceNow Service Portal
+*Allow users to view available sports halls and time slots in real time
+*Reduce manual booking requests and physical coordination
+*Enable quick confirmation through automated notifications
 
 # Widgets and Pages Configuration
-A ServiceNow Widgets and Pages Configuration  with the following details:
-Sports Hall / Facility Name
-Sport Type (Badminton, Basketball, Table Tennis,Cricket etc.)
-Booking Date
-Time Slot (Start Time – End Time)
-User Contact Details
+*A ServiceNow Widgets and Pages Configuration  with the following details:
+*Sports Hall / Facility Name
+*Sport Type (Badminton, Basketball, Table Tennis,Cricket etc.)
+*Booking Date
+*Time Slot (Start Time – End Time)
+*User Contact Details
 
 # Key Milestones
 Requirement Gathering & Analysis
